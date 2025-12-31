@@ -1,0 +1,8 @@
+streamlit
+ccxt
+pandas
+numpy
+plotly
+ta
+python-dotenv
+requests
